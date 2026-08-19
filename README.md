@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj476/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj476/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anuj476/Leetcode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
