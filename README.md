@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anuj476/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj476/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/anuj476/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anuj476/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anuj476/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/anuj476/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
