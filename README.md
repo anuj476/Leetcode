@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
+| [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj476/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anuj476/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anuj476/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/anuj476/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anuj476/Leetcode/tree/master/0389-find-the-difference) |
+| [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anuj476/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj476/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
