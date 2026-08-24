@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anuj476/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/anuj476/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj476/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj476/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anuj476/Leetcode/tree/master/0268-missing-number) |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj476/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anuj476/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -121,5 +123,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
