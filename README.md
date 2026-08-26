@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anuj476/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/anuj476/Leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
