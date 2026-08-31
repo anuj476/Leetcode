@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anuj476/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anuj476/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj476/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anuj476/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuj476/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anuj476/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/anuj476/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/anuj476/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/anuj476/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anuj476/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anuj476/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
