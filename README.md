@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj476/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuj476/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/anuj476/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anuj476/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anuj476/Leetcode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/anuj476/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj476/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuj476/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anuj476/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/anuj476/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/anuj476/Leetcode/tree/master/1872-stone-game-viii) |
@@ -223,4 +225,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj476/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuj476/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuj476/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
